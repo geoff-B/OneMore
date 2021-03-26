@@ -914,6 +914,15 @@ namespace River.OneMoreAddIn.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to ... To Title Case.
+        /// </summary>
+        internal static string ContextMenuSheet_ribTitlecaseButton {
+            get {
+                return ResourceManager.GetString("ContextMenuSheet_ribTitlecaseButton", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to ... Table of Contents.
         /// </summary>
         internal static string ContextMenuSheet_ribTocButton {
@@ -2369,6 +2378,15 @@ namespace River.OneMoreAddIn.Properties {
         internal static string InsertTocDialog_pagesBox_Text {
             get {
                 return ResourceManager.GetString("InsertTocDialog_pagesBox.Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Right-align top of page link.
+        /// </summary>
+        internal static string InsertTocDialog_rightAlignBox_Text {
+            get {
+                return ResourceManager.GetString("InsertTocDialog_rightAlignBox.Text", resourceCulture);
             }
         }
         
@@ -4759,6 +4777,24 @@ namespace River.OneMoreAddIn.Properties {
         internal static string ribTextToTableButton_Label {
             get {
                 return ResourceManager.GetString("ribTextToTableButton_Label", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to To Title Case.
+        /// </summary>
+        internal static string ribTitlecaseButton_Label {
+            get {
+                return ResourceManager.GetString("ribTitlecaseButton_Label", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Convert text to title case.
+        /// </summary>
+        internal static string ribTitlecaseButton_Screentip {
+            get {
+                return ResourceManager.GetString("ribTitlecaseButton_Screentip", resourceCulture);
             }
         }
         

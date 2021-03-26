@@ -2945,4 +2945,19 @@ ISO-code then comma then language name</comment>
     <value>U moet eerst de opdracht Uitvouwen omtrek gebruiken om alinea's te markeren die moeten worden samengevouwen</value>
     <comment>info message box</comment>
   </data>
+  <data name="ribTitlecaseButton_Label" xml:space="preserve">
+    <value>Om Titel Case</value>
+    <comment>rib button</comment>
+  </data>
+  <data name="ribTitlecaseButton_Screentip" xml:space="preserve">
+    <value>Converteer tekst naar hoofdlettergebruik</value>
+  </data>
+  <data name="ContextMenuSheet_ribTitlecaseButton" xml:space="preserve">
+    <value>... naar hoofdletters</value>
+    <comment>option</comment>
+  </data>
+  <data name="InsertTocDialog_rightAlignBox.Text" xml:space="preserve">
+    <value>Link bovenaan de pagina rechts uitlijnen</value>
+    <comment>checkbox</comment>
+  </data>
 </root>

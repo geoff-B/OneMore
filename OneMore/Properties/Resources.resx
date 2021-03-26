@@ -2959,4 +2959,19 @@ In this section</value>
     <value>OneMore</value>
     <comment>SKIP</comment>
   </data>
+  <data name="ribTitlecaseButton_Label" xml:space="preserve">
+    <value>To Title Case</value>
+    <comment>rib button</comment>
+  </data>
+  <data name="ribTitlecaseButton_Screentip" xml:space="preserve">
+    <value>Convert text to title case</value>
+  </data>
+  <data name="ContextMenuSheet_ribTitlecaseButton" xml:space="preserve">
+    <value>... To Title Case</value>
+    <comment>option</comment>
+  </data>
+  <data name="InsertTocDialog_rightAlignBox.Text" xml:space="preserve">
+    <value>Right-align top of page link</value>
+    <comment>checkbox</comment>
+  </data>
 </root>

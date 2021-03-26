@@ -2944,4 +2944,19 @@ ISO-code then comma then language name</comment>
     <value>يجب أولاً استخدام الأمر Expand Outline لتمييز الفقرات المراد طيها</value>
     <comment>info message box</comment>
   </data>
+  <data name="ribTitlecaseButton_Label" xml:space="preserve">
+    <value>إلى حالة العنوان</value>
+    <comment>rib button</comment>
+  </data>
+  <data name="ribTitlecaseButton_Screentip" xml:space="preserve">
+    <value>تحويل النص إلى حالة العنوان</value>
+  </data>
+  <data name="ContextMenuSheet_ribTitlecaseButton" xml:space="preserve">
+    <value>... إلى حالة العنوان</value>
+    <comment>option</comment>
+  </data>
+  <data name="InsertTocDialog_rightAlignBox.Text" xml:space="preserve">
+    <value>محاذاة لليمين أعلى ارتباط الصفحة</value>
+    <comment>checkbox</comment>
+  </data>
 </root>

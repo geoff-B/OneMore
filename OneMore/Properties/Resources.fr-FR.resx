@@ -2939,4 +2939,19 @@ ISO-code then comma then language name</comment>
     <value>Doit d'abord utiliser la commande Développer le contour pour marquer les paragraphes à réduire</value>
     <comment>info message box</comment>
   </data>
+  <data name="ribTitlecaseButton_Label" xml:space="preserve">
+    <value>À la casse du titre</value>
+    <comment>rib button</comment>
+  </data>
+  <data name="ribTitlecaseButton_Screentip" xml:space="preserve">
+    <value>Convertir le texte en casse du titre</value>
+  </data>
+  <data name="ContextMenuSheet_ribTitlecaseButton" xml:space="preserve">
+    <value>... à la casse du titre</value>
+    <comment>option</comment>
+  </data>
+  <data name="InsertTocDialog_rightAlignBox.Text" xml:space="preserve">
+    <value>Lien haut de page aligné à droite</value>
+    <comment>checkbox</comment>
+  </data>
 </root>

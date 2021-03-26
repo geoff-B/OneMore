@@ -2944,4 +2944,19 @@ ISO-code then comma then language name</comment>
     <value>Primero debe usar el comando Expandir esquema para marcar párrafos para contraer</value>
     <comment>info message box</comment>
   </data>
+  <data name="ribTitlecaseButton_Label" xml:space="preserve">
+    <value>Al caso del título</value>
+    <comment>rib button</comment>
+  </data>
+  <data name="ribTitlecaseButton_Screentip" xml:space="preserve">
+    <value>Convertir texto en mayúsculas y minúsculas</value>
+  </data>
+  <data name="ContextMenuSheet_ribTitlecaseButton" xml:space="preserve">
+    <value>... Al caso del título</value>
+    <comment>option</comment>
+  </data>
+  <data name="InsertTocDialog_rightAlignBox.Text" xml:space="preserve">
+    <value>Alinear a la derecha el enlace de la parte superior de la página</value>
+    <comment>checkbox</comment>
+  </data>
 </root>
