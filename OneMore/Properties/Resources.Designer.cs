@@ -824,6 +824,15 @@ namespace River.OneMoreAddIn.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to ... Join Paragraph.
+        /// </summary>
+        internal static string ContextMenuSheet_ribJoinParagraphButton {
+            get {
+                return ResourceManager.GetString("ContextMenuSheet_ribJoinParagraphButton", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to ... To lowercase.
         /// </summary>
         internal static string ContextMenuSheet_ribLowercaseButton {
@@ -833,7 +842,7 @@ namespace River.OneMoreAddIn.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to No Spell Check.
+        ///   Looks up a localized string similar to ... Disable Spell Check.
         /// </summary>
         internal static string ContextMenuSheet_ribNoSpellCheckButton {
             get {
@@ -910,6 +919,15 @@ namespace River.OneMoreAddIn.Properties {
         internal static string ContextMenuSheet_ribSnippetsMenu {
             get {
                 return ResourceManager.GetString("ContextMenuSheet_ribSnippetsMenu", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to ... Enable Spell Check.
+        /// </summary>
+        internal static string ContextMenuSheet_ribSpellCheckButton {
+            get {
+                return ResourceManager.GetString("ContextMenuSheet_ribSpellCheckButton", resourceCulture);
             }
         }
         
@@ -4295,7 +4313,7 @@ namespace River.OneMoreAddIn.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to No Spell Check.
+        ///   Looks up a localized string similar to Disable Spell Check.
         /// </summary>
         internal static string ribNoSpellCheckButton_Label {
             get {
@@ -4714,6 +4732,24 @@ namespace River.OneMoreAddIn.Properties {
         internal static string ribSortButton_Label {
             get {
                 return ResourceManager.GetString("ribSortButton_Label", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Enable Spell Check.
+        /// </summary>
+        internal static string ribSpellCheckButton_Label {
+            get {
+                return ResourceManager.GetString("ribSpellCheckButton_Label", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Enable spell check for entire page.
+        /// </summary>
+        internal static string ribSpellCheckButton_Screentip {
+            get {
+                return ResourceManager.GetString("ribSpellCheckButton_Screentip", resourceCulture);
             }
         }
         
@@ -6159,6 +6195,15 @@ namespace River.OneMoreAddIn.Properties {
         internal static string StyleDialog_saveButton_Text {
             get {
                 return ResourceManager.GetString("StyleDialog_saveButton.Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Spacing:.
+        /// </summary>
+        internal static string StyleDialog_spacingLabel_Text {
+            get {
+                return ResourceManager.GetString("StyleDialog_spacingLabel.Text", resourceCulture);
             }
         }
         

@@ -133,7 +133,7 @@
     <Compile Include="Commands\Edit\HighlightCommand.cs" />
     <Compile Include="Commands\Edit\InvertSelectionCommand.cs" />
     <Compile Include="Commands\Edit\JoinParagraphCommand.cs" />
-    <Compile Include="Commands\Edit\CopyFolderCommand.cs" />
+    <Compile Include="Commands\File\CopyFolderCommand.cs" />
     <Compile Include="Commands\Settings\GeneralSheet.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -406,7 +406,7 @@
     <Compile Include="Commands\Snippets\InsertTocCommand.cs" />
     <Compile Include="Commands\References\NameUrlsCommand.cs" />
     <Compile Include="Commands\Favorites\GotoFavoriteCommand.cs" />
-    <Compile Include="Commands\Edit\NoSpellCheckCommand.cs" />
+    <Compile Include="Commands\Edit\SpellCheckCommand.cs" />
     <Compile Include="Commands\Edit\PasteRtfCommand.cs" />
     <Compile Include="Commands\References\RemoveFootnoteCommand.cs" />
     <Compile Include="Commands\SearchAndReplace\SearchAndReplaceCommand.cs" />
